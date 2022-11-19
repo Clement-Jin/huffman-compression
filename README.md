@@ -7,7 +7,7 @@ Basic Algorithm:
       - Value of letter
       - Frequency of letter
     - A Branch node object that has:
-      - 2 nodes stored as children in the branch node. These could be node objects described in 0.i, or other branch nodes.
+      - 2 nodes stored as children in the branch node. These could be node objects described in 1 or other branch nodes.
         Make sure to identify which has the binary value 0 and which has the value 1, ie. the left/right sides of the tree branch.
           - Use .left and .right perhaps? 
       - The frequency of that node: the sum of frequencies of the child nodes. 
